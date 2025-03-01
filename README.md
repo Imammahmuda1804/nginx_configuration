@@ -234,3 +234,4 @@ cat /usr/local/var/log/nginx/error.log  # macOS
 cat /var/log/nginx/error.log  # Ubuntu
 ```
 
+# test
